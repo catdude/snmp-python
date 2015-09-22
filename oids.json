@@ -1,0 +1,55 @@
+{
+    "OIDs": [
+        {
+            "class": "*",
+            "OIDlist": [
+                {
+                    "name": "sysUpTime",
+                    "oid": ".1.3.6.1.2.1.1.3.0"
+                }
+            ]
+        },
+        {
+            "class": "CDS",
+            "OIDlist": [
+                {
+                    "name": "wbdNVAcqStatsAvgAgcLevel",
+                    "oid": ".1.3.6.1.4.1.303.3.3.12.1.1.37.2.1.5.2"
+                },
+                {
+                    "name": "wbdNVAcqStatsAvgEsNo",
+                    "oid": ".1.3.6.1.4.1.303.3.3.12.1.1.37.2.1.5.3"
+                },
+                {
+                    "name": "wbdNVAcqStatsAvgFreqOffset",
+                    "oid": ".1.3.6.1.4.1.303.3.3.12.1.1.37.2.1.5.1"
+                },
+                {
+                    "name": "wbdNVAcqStatsInrtsLocked",
+                    "oid": ".1.3.6.1.4.1.303.3.3.12.1.1.37.2.1.5.4"
+                },
+                {
+                    "name": "wbdNVCPGenStatsCPState",
+                    "oid": ".1.3.6.1.4.1.303.3.3.12.1.1.37.2.1.1"
+                },
+                {
+                    "name": "wbdNVStatsSyncStatus",
+                    "oid": ".1.3.6.1.4.1.303.3.3.12.1.1.37.2.1.6.1"
+                }
+            ]
+        },
+        {
+            "class": "3750",
+            "OIDlist": [
+                {
+                    "name": "ifHCInOctets",
+                    "oid": ".1.3.6.1.2.1.31.1.1.1.6"
+                },
+                {
+                    "name": "ifHCOutOctets",
+                    "oid": ".1.3.6.1.2.1.31.1.1.1.10"
+                }
+            ]
+        }
+    ]
+}

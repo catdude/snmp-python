@@ -1,0 +1,106 @@
+{
+    "devices": [
+        {
+            "name": "cs03.us",
+            "ip": "192.168.101.13",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs04.us",
+            "ip": "192.168.101.14",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs05-a.us",
+            "ip": "192.168.100.15",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs05-b.us",
+            "ip": "192.168.100.25",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs06-a.us",
+            "ip": "192.168.101.16",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs06-b.us",
+            "ip": "192.168.101.26",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs07.us",
+            "ip": "192.168.101.17",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs08.us",
+            "ip": "192.168.101.18",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "cs09.us",
+            "ip": "192.168.101.19",
+            "type": "3750",
+            "rocomm": "row44read"
+        },
+        {
+            "name": "AMC-9B-CDS_1",
+            "ip": "192.168.10.208",
+            "type": "CDS",
+            "rocomm": "public"
+        },
+        {
+            "name": "AMC-9B-CDS_2",
+            "ip": "192.168.10.209",
+            "type": "CDS",
+            "rocomm": "public"
+        },
+        {
+            "name": "AMC-9B-CDS_3",
+            "ip": "192.168.10.210",
+            "type": "CDS",
+            "rocomm": "public"
+        },
+        {
+            "name": "AMC-9B-CDS_4",
+            "ip": "192.168.10.211",
+            "type": "CDS",
+            "rocomm": "public"
+        },
+        {
+            "name": "AMC-9B-CDS_5",
+            "ip": "192.168.10.212",
+            "type": "CDS",
+            "rocomm": "public"
+        },
+        {
+            "name": "AMC-9B-CDS_6",
+            "ip": "192.168.10.213",
+            "type": "CDS",
+            "rocomm": "public"
+        },
+        {
+            "name": "AMC-9B-CDS_7",
+            "ip": "192.168.10.214",
+            "type": "CDS",
+            "rocomm": "public"
+        },
+        {
+            "name": "AMC-9B-CDS_8",
+            "ip": "192.168.10.215",
+            "type": "CDS",
+            "rocomm": "public"
+        }
+    ]
+}
